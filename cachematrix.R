@@ -5,7 +5,7 @@
 ## cachem <- makeCacheMatrix(m)
 ## inverse <- cacheSolve(cachem)
 
-## Create a list contain containing functions to:
+## Create a list containing functions to:
 ## 1. set the matrix
 ## 2. get the matrix
 ## 3. set the inverse of matrix
